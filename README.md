@@ -1,5 +1,7 @@
 https://www.tensorflow.org/install/install_mac#installing_with_virtualenv
 
+![ui for game of life neural net](https://media.giphy.com/media/xT0xeEh9PY3KVJn6ow/giphy.gif)
+
 # Run ui
 ```
 open http://localhost:8000
